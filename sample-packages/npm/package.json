@@ -1,3 +1,7 @@
 {
-  "your": "json config here"
+  "name": "@dineshpsalm/my-package",
+  "version": "1.0.0",
+  "repository": "https://github.com/dineshpsalm/exercise-publish-package",
+  // ... other fields
 }
+
